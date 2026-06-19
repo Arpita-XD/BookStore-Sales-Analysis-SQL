@@ -56,3 +56,14 @@ The project consists of three tables:
 ## Author
 
 Arpita
+
+## Project Screenshots
+
+### Revenue Contribution
+![Revenue Contribution](revenue_contribution.png.png)
+
+### Inventory Status
+![Inventory Status](inventory_status.png.png)
+
+### Best Selling Book
+![Best Selling Book](best_selling_book.png.png)
